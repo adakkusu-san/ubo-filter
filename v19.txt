@@ -1,0 +1,6 @@
+! Title: msz old filters from 2019
+! Expires: 1 month
+! Description: I found these in a text file, but I'm not going to update this anymore
+! Homepage: https://github.com/adakkusu-san/ubo-filter
+
+! TODO

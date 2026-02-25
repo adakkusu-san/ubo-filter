@@ -1,0 +1,35 @@
+! Title: msz filters main
+! Expires: 1 weeks
+! Description: These are the filters I use / may have to make separate files at some point
+! Homepage: https://github.com/adakkusu-san/ubo-filter
+! Last modified: 2026-02-25 10:11 AM
+
+! [start] generic
+
+/_static/js/ruffle/ruffle.js^
+
+! [end]
+
+
+! [start] twitter
+
+! no more button on images
+x.com##[href*='/i/imagine']
+x.com##[href*='grok.com/imagine']
+
+! sidebar left
+x.com##[href="/i/grok"]
+x.com##[href="/i/premium_sign_up"]
+x.com##[href="/i/jf/creators/studio"]
+x.com##[href="/i/verified-orgs-signup"]
+x.com##[href="/i/spaces/start"]
+x.com##[href*="/ads.x.com/"]
+
+! sidebar right
+x.com##[aria-label="Timeline: Trending now"]
+x.com##[data-testid*="news_sidebar_article_"]
+x.com##[aria-label*="is hosting"]
+x.com##[data-testid="GrokDrawer"]
+x.com##[data-testid="chat-drawer-main"]
+
+! [end]

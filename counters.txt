@@ -1,0 +1,6 @@
+! Title: no more counters
+! Expires: 1 month
+! Description: you've seen the small images that count up by 1 after you've seen them once? now you shouldn't see them
+! Homepage: https://github.com/adakkusu-san/ubo-filter
+
+! TODO
