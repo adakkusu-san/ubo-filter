@@ -3,4 +3,16 @@
 ! Description: you've seen the small images that count up by 1 after you've seen them once? now you shouldn't see them
 ! Homepage: https://github.com/adakkusu-san/ubo-filter
 
-! TODO
+/dream.cgi
+/kiricnt.cgi
+/daycount.cgi
+/dayx.cgi
+/cupid.cgi
+/mgcount.cgi
+/txcount.cgi
+/lime.cgi
+||counter1.fc2.com^
+||counter1-cdn-ssl.fc2.com^
+||count.ayaya.beauty^
+/neocities.php?sitename
+||goatcounter.com^

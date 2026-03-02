@@ -28,8 +28,16 @@ x.com##[href*="/ads.x.com/"]
 ! sidebar right
 x.com##[aria-label="Timeline: Trending now"]
 x.com##[data-testid*="news_sidebar_article_"]
-x.com##[aria-label*="is hosting"]
 x.com##[data-testid="GrokDrawer"]
 x.com##[data-testid="chat-drawer-main"]
+x.com##[aria-label*="is hosting"]
+x.com##[aria-label*="is listening"]
+x.com##[aria-label*="is speaking"]
+
+! [end]
+
+! [start] wip
+
+!example.com##.pure-g .h-box .pure-u-1:has(a:has-text(/text-to-hide/i))
 
 ! [end]
