@@ -16,3 +16,4 @@
 ||count.ayaya.beauty^
 /neocities.php?sitename
 ||goatcounter.com^
+/count-view
